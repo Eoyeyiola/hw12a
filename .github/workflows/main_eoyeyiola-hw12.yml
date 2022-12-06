@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'eoyeyiola-hw12'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_020F7FA3E0CC470A8A5021157BF46A57 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4FC5213F2CF749CD92711AC76867FA27 }}
